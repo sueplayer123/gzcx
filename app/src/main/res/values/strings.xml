@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">故障处理查询系统</string>
+    <string name="ss">浏览全文</string>
+    <string name="df">查询流程</string>
+    <string name="sd">查询方法</string>
+    <string name="al">查询案例</string>
+    <string name="biaoti">电力分公司故障处理查询系统</string>
+    <string name="gjz">关键字</string>
+</resources>
